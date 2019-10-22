@@ -1,9 +1,3 @@
-zstudent03  
-IP=51.158.162.51  
-Voucher=BBWW3DRF  
-PW=rmsguest!  
-
-
 Zabbix unter windows verzögert starten
 36,     Hostname: Case sensitive
         Visible Name: Obvious
