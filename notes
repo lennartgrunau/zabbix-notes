@@ -82,6 +82,21 @@ Zabbix Java Gateway: 10052
 6, Templates are assigned to hosts directly (__not__ to a host group), Multiple templates can be linked to single host
 9, Clone/Full Clone
 21, Functions: grpavg, grpmax, grpmin, grpsum
+29, OIDs, MIP, SNMP ist UDP, baumstruktur, hierarchisch
+
+45, Steps werden nur ausgeführt, wenn vorherige erfolgreich waren 
+51, no jscript, no if-else, hardcoded 30 days history, 90 days trends
+54, agent.d conf, folie komplett
+    Agent muss restarted werden; kann aber vorher gestestet werden mit zabbix_agentd -t; agent timeout maximal 30 sec; UserParameter als active checks wegen timeout, mega smart!
+58, 
+59, zabbix get NUR gegen agent, NICHT IPMI, NICHT SNMP
+60, does not display active-only keys
+    does not display calculated information
+
+
+
+
+
 
 
 
