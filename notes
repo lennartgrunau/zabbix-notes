@@ -95,6 +95,31 @@ Zabbix Java Gateway: 10052
 
 
 
+**Day 3:**
+5, graphen standardfunktion average
+11, label functions: avg, last, min, max mit seconds als parameter
+    Icons und backgrounds gibt es
+12, hierarchisch aufgebaute maps
+20, Only Admin and Super Admin can change their own media details
+
+24, folie verstanden haben!
+25, recovery operations __keine__ escalation
+26, update operations __keine__ escalation
+32, komplett lol
+trigger
+discovery
+internal
+autoregistration
+
+37, alert script path, ALERT.SENDTO, ALERT.SUBJECT, ALERT.MESSAGE, zabbix user
+47, komplett
+
+51, hierarchisch,  verstanden, maintainance & trigger beeinflussen SLA
+68, berechtigungen nur für gruppen, nicht individuell, gruppen sind für organisation und permissions da POG
+read-write, read, deny, none
+74
+
+
 
 
 
